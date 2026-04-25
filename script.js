@@ -100,7 +100,7 @@ const projects = {
       'Architected for RESTful Node.js backend integration',
     ],
     tech: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'Node.js', 'DOM API', 'PDF Export'],
-    github: '', // ← ADD YOUR GITHUB LINK HERE
+    github: 'https://imthiyaz-asm.github.io/resume-builder/', // ← ADD YOUR GITHUB LINK HERE
   },
 
   elearning: {
@@ -115,7 +115,7 @@ const projects = {
       'WCAG accessibility standards compliance',
     ],
     tech: ['React.js', 'Tailwind CSS', 'Component Architecture', 'Responsive Design', 'JSX'],
-    github: '', // ← ADD YOUR GITHUB LINK HERE
+    github: ' https://imthiyaz-asm.github.io/togrowmarketing/', // ← ADD YOUR GITHUB LINK HERE
   },
 
   tracker: {
